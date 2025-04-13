@@ -1,0 +1,2 @@
+C:/Flutterclass/flutterclass_satri/try _khalti_ui_integration_version2/khalti_integration_version2/android/app/.cxx/Debug/4a6l5c1c/x86/CMakeFiles/edit_cache.dir
+C:/Flutterclass/flutterclass_satri/try _khalti_ui_integration_version2/khalti_integration_version2/android/app/.cxx/Debug/4a6l5c1c/x86/CMakeFiles/rebuild_cache.dir
